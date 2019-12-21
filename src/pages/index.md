@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Merry Christmas
-image: /img/home-jumbotron.jpg
+image: /img/hero.jpg
 heading: Great coffee with a conscience
 subheading: To All And To All A Goodnight
 mainpitch:
