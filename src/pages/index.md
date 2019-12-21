@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
 title: Merry Christmas
-image: /img/kidheros.png
+image: /img/chemex.jpg
 heading: Great coffee with a conscience
 subheading: To All And To All A Goodnight
 mainpitch:
-  title: Why Kaldi
+  title: It's my bday
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
