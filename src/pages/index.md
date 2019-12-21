@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Merry Christmas
-image: /img/hero.jpg
+image: /img/chemex.jpg
 heading: Great coffee with a conscience
 subheading: To All And To All A Goodnight
 mainpitch:
