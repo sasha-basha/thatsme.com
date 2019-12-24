@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Merry Christmas
-image: /img/chemex.jpg
+image: /img/ridgeback-1.jpeg
 heading: Great coffee with a conscience
 subheading: To All And To All A Goodnight
 mainpitch:
@@ -68,4 +68,3 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-

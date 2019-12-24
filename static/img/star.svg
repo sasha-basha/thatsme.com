@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="47px" height="46px" viewBox="0 0 47 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="48px" height="46px" viewBox="0 0 48 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
     <title>Star</title>
     <desc>Created with Sketch.</desc>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M35.2523985,41.535079 L33.0066535,28.1741623 L42.563743,18.6681829 L29.3605332,16.7104904 L23.5,4.59341143 L17.6394668,16.7104904 L4.43625703,18.6681829 L13.9933465,28.1741623 L11.7476015,41.535079 L23.5,35.2303836 L35.2523985,41.535079 Z" id="Star" stroke="#F2EE4F" stroke-width="4" fill="#FFFFFF"></path>
+        <path d="M38.0305658,44.3114171 L35.3509662,28.6881525 L46.7019323,17.623695 L31.0152829,15.3442915 L24,1.12977573 L16.9847171,15.3442915 L1.29806766,17.623695 L12.6490338,28.6881525 L9.96943421,44.3114171 L24,36.9351121 L38.0305658,44.3114171 Z" id="Star" stroke="#FFFF00" fill="#FFFF00"></path>
     </g>
 </svg>

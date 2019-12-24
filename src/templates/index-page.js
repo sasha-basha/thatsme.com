@@ -5,13 +5,25 @@ import styled from "styled-components";
 
 import Layout from "../components/Layout";
 import BlogRoll from "../components/BlogRoll";
+const StarrySection = styled.section`
+  background-image: url(${"/img/star.svg"}),
+    linear-gradient(110deg, #000000, #00010a);
+  background-repeat: space;
+`;
 
 const MainSection = styled.section`
-  background: blue;
-  /*linear-gradient(110deg, #fc5c7d, #6a82fb);*/
-  background-image: url(${"/img/star.svg"});
-  background-repeat: space;
-  background-size: 4rem auto;
+  background-image: url(${"/img/night-moon.jpg"}),
+    linear-gradient(110deg, #000000, #00010a);
+  background-position: center;
+  background-repeat: no-repeat ;
+  
+  /*
+  MOON PICTURE AS BACKGROUND ONLY
+  background-size: cover;
+  background-image: url(${"/img/night-moon.jpg"});
+  background-repeat: no-repeat;
+  background-position: center;
+    */
 `;
 
 export const IndexPageTemplate = ({
@@ -72,37 +84,39 @@ export const IndexPageTemplate = ({
         </h3>
       </div>
     </div>
-    <MainSection className="section section--gradient">
-      <div className="container">
-        <div className="section">
-          <div className="columns">
-            <div className="column is-10 is-offset-1">
-              <div className="content">
-                <div className="columns">
+    <StarrySection>
+      <MainSection className="section section--gradient">
+        <div className="container">
+          <div className="section">
+            <div className="columns">
+              <div className="column is-10 is-offset-1">
+                <div className="content">
+                  <div className="columns">
+                    <div className="column is-12">
+                      <h3 className="has-text-weight-semibold is-size-2">
+                        {heading}
+                      </h3>
+                      <p>{description}</p>
+                    </div>
+                  </div>
                   <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">
-                      {heading}
+                      Latest stories
                     </h3>
-                    <p>{description}</p>
-                  </div>
-                </div>
-                <div className="column is-12">
-                  <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
-                  </h3>
-                  <BlogRoll />
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/blog">
-                      Read more
-                    </Link>
+                    <BlogRoll />
+                    <div className="column is-12 has-text-centered">
+                      <Link className="btn" to="/blog">
+                        Read more
+                      </Link>
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </div>
-    </MainSection>
+      </MainSection>
+    </StarrySection>
   </div>
 );
 
