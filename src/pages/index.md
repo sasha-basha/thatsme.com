@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Merry Christmas
 subheading: To All And To All A Goodnight
-image: /img/chicken-1.jpeg
+image: /img/chicken-7.jpeg
 heading: Great coffee with a conscience
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
