@@ -4,7 +4,7 @@ title: Merry Christmas
 image: /img/golden-1.jpg
 heading: Hello World! I'm Sasha
 subheading: To All And To All A Goodnight
-description: >-
+description: >
   Blah blah blah blah blah blah blah blah blah blah blah blah blah blah.
 intro:
   blurbs:
