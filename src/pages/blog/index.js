@@ -3,6 +3,7 @@ import styled from "styled-components";
 import Layout from "../../components/Layout";
 import BlogRoll from "../../components/BlogRoll";
 const BlogIndexSection = styled.section`
+  height: 90vh;
   background-image: linear-gradient(110deg, #9796f0, #fbc7d4);
 `;
 
