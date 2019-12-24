@@ -25,7 +25,14 @@ const MainSection = styled.section`
   background-position: center;
     */
 `;
+const ContentSection = styled.section`
+color: #272727;
+border 1px dashed #272727;
+border-shadow: 0 0 0 5px;
+border-radius: 5px
+background:#ffc600;
 
+`;
 export const IndexPageTemplate = ({
   image,
   title,
@@ -59,9 +66,8 @@ export const IndexPageTemplate = ({
         <h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
-            boxShadow:
-              "rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px",
-            backgroundColor: "rgb(255, 68, 0)",
+            boxShadow: "#FF0000 0.5rem 0px 0px, #FF0000 -0.5rem 0px 0px",
+            backgroundColor: "#FF0000",
             color: "white",
             lineHeight: "1",
             padding: "0.25em"
@@ -72,12 +78,13 @@ export const IndexPageTemplate = ({
         <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
-            boxShadow:
-              "rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px",
-            backgroundColor: "rgb(255, 68, 0)",
+            boxShadow: "#FF0000 0.5rem 0px 0px, #FF0000 -0.5rem 0px 0px",
+            backgroundColor: "#FF0000",
             color: "white",
             lineHeight: "1",
-            padding: "0.25em"
+            padding: "0.25em",
+            alignItems: `center`,
+            textAlign: "center"
           }}
         >
           {subheading}
@@ -92,16 +99,29 @@ export const IndexPageTemplate = ({
               <div className="column is-10 is-offset-1">
                 <div className="content">
                   <div className="columns">
-                    <div className="column is-12">
+                    <ContentSection className="column is-12">
                       <h3 className="has-text-weight-semibold is-size-2">
                         {heading}
                       </h3>
                       <p>{description}</p>
-                    </div>
+                    </ContentSection>
                   </div>
                   <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      Latest stories
+                    <h3
+                      className="has-text-weight-semibold is-size-2"
+                      style={{
+                        borderRadius: "5px",
+                        boxShadow:
+                          "#f93d66 0.5rem 0px 0px, #f93d66 -0.5rem 0px 0px",
+                        backgroundColor: "#f93d66",
+                        color: "#fff",
+                        lineHeight: "1",
+                        padding: "0.25em",
+                        alignItems: `center`,
+                        textAlign: "center"
+                      }}
+                    >
+                      Latest stories from Sasha
                     </h3>
                     <BlogRoll />
                     <div className="column is-12 has-text-centered">
@@ -125,7 +145,6 @@ IndexPageTemplate.propTypes = {
   title: PropTypes.string,
   heading: PropTypes.string,
   subheading: PropTypes.string,
-  mainpitch: PropTypes.object,
   description: PropTypes.string,
   intro: PropTypes.shape({
     blurbs: PropTypes.array
@@ -142,7 +161,6 @@ const IndexPage = ({ data }) => {
         title={frontmatter.title}
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
-        mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
         intro={frontmatter.intro}
       />
