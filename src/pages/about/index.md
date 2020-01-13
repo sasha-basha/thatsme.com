@@ -1,9 +1,5 @@
 ---
-templateKey: "about-page"
-path: /about
-title: About Whatever I Want
+templateKey: about-page
+title: Thank you!
 ---
-
-### Blah
-
-La tee da. Blah blah blah.
+ I would just like to say thank you to my awesome cousins, Sabra and Kumar! Thank you for this Awesome website! You guys are amazing! Thank you!
