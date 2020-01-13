@@ -1,10 +1,9 @@
 ---
 templateKey: index-page
-title: Merry Christmas
-subheading: To All And To All A Goodnight
-image: /img/barrel-2.jpg
-heading: Hello World! I'm Sasha
-description: |
-  Blah blah blah blah blah blah blah blah blah blah blah blah blah blah.
+title: 'Happy 2020!  '
+subheading: Have a nice day!
+image: /img/chick-and-egg.jpg
+heading: 'Hello World! '
+description: Hi. I'm Sasha. Hope u have a good day!
 ---
 
