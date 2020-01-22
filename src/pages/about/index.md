@@ -1,5 +1,5 @@
 ---
 templateKey: about-page
-title: Thank you!
+title: Hi! I'm Sasha!
 ---
- I would just like to say thank you to my awesome cousins, Sabra and Kumar! Thank you for this Awesome website! You guys are amazing! Thank you!
+Hi there, I'm Sasha, and I love animals. Hope u have a good day!
