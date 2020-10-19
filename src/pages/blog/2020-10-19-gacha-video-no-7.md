@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
-title: Gacha Video No. 7
+title: Gacha Video No. 10
 date: 2020-10-16T17:25:46.940Z
-description: Every thing you need to know about our channel!
+description: Gravity Falls Fans vs. Normal People
 featuredpost: true
-featuredimage: /img/img_8070.png
+featuredimage: /img/img_8076.jpg
 tags:
   - Yea so like and subscribe!
 ---
-Heres the link:
+Heres the link
 
-https://youtu.be/9ybxPS5zaOU
+https://youtu.be/5eLaM_gt-t4
