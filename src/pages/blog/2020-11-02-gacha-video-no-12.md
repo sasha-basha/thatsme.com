@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: RL video No. 7
+title: RL video No. 8
 date: 2020-11-02T18:38:11.663Z
-description: Hamster taste Tests Food!
+description: Lucy's Birthday!
 featuredpost: true
 featuredimage: /img/android-chrome-192x192.png
 tags:
@@ -11,4 +11,4 @@ tags:
 ---
 Here is the Link:
 
-https://youtu.be/GPc6N8sIrBI
+https://youtu.be/EFupjx3nAlE
