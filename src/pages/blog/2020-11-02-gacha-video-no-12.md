@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: RL video No. 9
+title: RL video No. 10
 date: 2020-11-02T18:38:11.663Z
-description: Beginner Lesson W/ Soso's schleich!
+description: Soso's Riding Lesson!
 featuredpost: true
 featuredimage: /img/android-chrome-192x192.png
 tags:
@@ -11,4 +11,4 @@ tags:
 ---
 Here is the Link:
 
-https://youtu.be/Gx-wfskMwug
+https://youtu.be/dFKkIWtiLmE
