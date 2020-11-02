@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: RL video No. 6
+title: RL video No. 7
 date: 2020-11-02T18:38:11.663Z
-description: How to make a Spa Face Mask!
+description: Hamster taste Tests Food!
 featuredpost: true
 featuredimage: /img/android-chrome-192x192.png
 tags:
@@ -11,4 +11,4 @@ tags:
 ---
 Here is the Link:
 
-https://youtu.be/dUWLxYSQu-s
+https://youtu.be/GPc6N8sIrBI
