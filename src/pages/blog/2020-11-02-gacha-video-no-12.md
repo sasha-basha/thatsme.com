@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: Gacha Video No. 13
+title: RL video No. 1
 date: 2020-11-02T18:38:11.663Z
-description: Types of People Outside!
+description: Introduction to our channel!
 featuredpost: true
 featuredimage: /img/android-chrome-192x192.png
 tags:
@@ -11,4 +11,4 @@ tags:
 ---
 Here is the Link:
 
-https://youtu.be/dJRqVf-tex8
+https://youtu.be/CcOOtKgtw6Q
