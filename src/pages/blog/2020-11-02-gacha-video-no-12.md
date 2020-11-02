@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: RL video No. 5
+title: RL video No. 6
 date: 2020-11-02T18:38:11.663Z
-description: Hamster in Tropical Maze! (Smokies First Maze!)
+description: How to make a Spa Face Mask!
 featuredpost: true
 featuredimage: /img/android-chrome-192x192.png
 tags:
@@ -11,4 +11,4 @@ tags:
 ---
 Here is the Link:
 
-https://youtu.be/-mY_kF-6hXY
+https://youtu.be/dUWLxYSQu-s
