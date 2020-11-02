@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: RL video No. 8
+title: RL video No. 9
 date: 2020-11-02T18:38:11.663Z
-description: Lucy's Birthday!
+description: Beginner Lesson W/ Soso's schleich!
 featuredpost: true
 featuredimage: /img/android-chrome-192x192.png
 tags:
@@ -11,4 +11,4 @@ tags:
 ---
 Here is the Link:
 
-https://youtu.be/EFupjx3nAlE
+https://youtu.be/Gx-wfskMwug
