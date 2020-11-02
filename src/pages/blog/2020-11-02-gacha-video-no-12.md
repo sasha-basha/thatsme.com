@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: RL video No. 2
+title: RL video No. 3
 date: 2020-11-02T18:38:11.663Z
-description: Soso and Mayrn's wild ride!
+description: Soso's Pet!
 featuredpost: true
 featuredimage: /img/android-chrome-192x192.png
 tags:
@@ -11,4 +11,4 @@ tags:
 ---
 Here is the Link:
 
-https://youtu.be/tYY3R4_BomA
+https://youtu.be/Hh3CYNCr1pc
