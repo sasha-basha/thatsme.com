@@ -1,63 +1,62 @@
 ---
 templateKey: blog-post
-title: Introducing our OC's!
+title: NORMAL PEOPLE VS. GRAVITY FALLS FANS
 date: 2020-11-20T19:45:55.538Z
 description: '  This is one of my videos!'
 featuredpost: true
-featuredimage: /img/img_8069-2.png
+featuredimage: /img/img_8076-2.jpg
 tags:
   - Pls like and subscribe!
 ---
-1. Sasha
+1. Meeting at bus stop
 
-Sasha Is a preteen who loves drawing and animals, and is the maker of Saso Video gacha videos! I'm addicted to Harry Potter, Gravity Falls, ASOUE, and Wings of Fire.                                     
+   Normal people: Wake up, brush teeth, eat breakfast, get dressed, go to school.
 
-2. Chloe
+   Gravity falls Fans: Go to bus stop, the compare their GF merch and discuss interesting plot development.          
 
-Chloe is a very funny and a walking meme herself. she is my age, and loves cats.
+   2. Not understanding something
 
-3. Soso
+   Normal peeps: Help their friends by finding an dictionary or something x-P
 
-My youger sister, and part of Saso video. She is addicted to horseback riding and llikes Harry Potter!
+   GF fans: Quote "What is this, Russia" (Stan Pines Reference)
 
-4. Molly
+   3: Shopping
 
-Molly is a very taleted dancer, and makes Gacha VIdeos too. She loves Harry potter just as much as me and Soso.
+   Normal people: pick out trendy new outfits
 
-5.Saylor
+   Gravity Falls fans: Pick out stuff like dipper's hat, Wendy's Shirt, and yellow hair dye so they can be hooman bill ciphers
 
-She is Soso's BFF, and loves horsebackriding just as much as she does. 
+   4. Search History
 
-6. Kate
+   Normal People:
 
-She is really nice and shy, and loves HP too!
+   1. What is the deepest part of the ocean
 
-7. Ivy (Formally Aliyah)
+      1. Cute kitties and puupies
 
-\    Aliyah is a preteen. She loves Minecraft, Roblox, and Gravity Falls.
+         3. Wikipedia.com
 
-8.Psalty! (Salty)
+         ( Or something like that)
 
- Psalty is my older cousin, and shes reallly nice and loves memes too.! 
+         Gravity falls fans:
 
-9. Andie
+         1. MAKE A SEASON THREE OF GF RIGHT NOW
+         2. Is bill still alive
+         3. Who did mabel marry
+         4. Walking in on someone while there doing something weird
 
-  Loves Billie Elish, drawing, and Animals! We are long-distance friends ever since she moved away.
+         Normal Peeps: Probebly bargng in while there watching NETFLIX or something
 
-10. Claire. 
+         Gravity falls Fans: chances are they'll be summoning Bill Cipher
 
-   Claire is super sweet and around Soso's age! She loves Hamsters and Disney.
+         6. being critized
 
-11. Daniela
+         Normal people: "whatever"
 
-My age, Really nice, and she likes fashion and scary stuff!
+         Gravity Falls Fans when someone critisizes Gravity Falls " W H A T D I D Y O U J U S T S A Y,  B U T B E W A R N E D Y O U W I L L H A V E A H A R D T IM E S L E E P I N G T O N I G H T"
 
-12. Deirdre!
+         7. When your sibling is almost as tall as you
 
-   Deirdre is really sweet and Loves one direction!
+         Normal People: "Ugh...
 
-13. Maryn! 
-
-   She loves Schleich, (A toy horse brand), and Is one of Soso's best friends.
-
-LIke I said, this is information from my video, and the link is on a different blog.
+         Gravity falls Fans: \*Uses memory gun to make them short again\*
