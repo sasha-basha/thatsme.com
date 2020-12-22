@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Have a Good Day!
-subheading: Have a nice day!
-image: /img/ridgeback-1.jpg
-heading: 'Hello World! '
+title: '   Hey guys!'
+subheading: What's up?
+image: /img/img_4040.jpg
+heading: Read My Blogs!
 description: Hi. I'm Sasha. Hope u have a good day!
 ---
 
