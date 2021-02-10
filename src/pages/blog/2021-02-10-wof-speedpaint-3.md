@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
-title: 'WoF Speedpaint #4'
+title: 'WoF Speedpaint #5'
 date: 2020-12-21T23:42:00.000Z
-description: Onyx Speedpaint
+description: The Dragonets wish you a Merry Christmas Speedpaint!
 featuredpost: true
-featuredimage: /img/img_9561.png
+featuredimage: /img/img_9553.png
 tags:
   - Pls like and subscribe!
 ---
 Link:
 
- https://youtu.be/naQ7hPybdTk
+https://youtu.be/mx7NyyZzlyU
