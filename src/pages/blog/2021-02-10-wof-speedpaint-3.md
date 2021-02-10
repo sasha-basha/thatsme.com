@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: 'WoF Speedpaint #7'
+title: 'WoF Speedpaint #8'
 date: 2020-12-21T23:42:00.000Z
-description: Guardians Speedpaint!
+description: Alterate DOD  Speedpaint!
 featuredpost: true
 featuredimage: /img/img_9551.png
 tags:
@@ -10,4 +10,4 @@ tags:
 ---
 Link:
 
-https://youtu.be/vUkI5lqVm40
+https://youtu.be/h7DGMGoDmBM
