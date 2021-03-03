@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: My Favorite WoF Characters!
+title: My Favorite WoF Characters! (BACKUP)
 date: 2020-12-21T23:42:00.000Z
 description: Why Not
 featuredpost: true
